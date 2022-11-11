@@ -1,0 +1,5 @@
+nature affects person
+nature affects umbrella
+person affects properties
+umbrella affects person
+umbrella affects description
