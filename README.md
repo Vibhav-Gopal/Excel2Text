@@ -15,3 +15,6 @@ But can be modified to satisfy various needs, the python file basically reads an
 ## Limitations
 + Works only for square matrices
 + The value of correlation between two elements must be either a 1 or a 0
+
+### Author
+Vibhav - <vibhavgopal2004@gmail.com>
