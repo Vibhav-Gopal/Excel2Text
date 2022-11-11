@@ -7,10 +7,10 @@ But can be modified to satisfy various needs, the python file basically reads an
 * Pandas module
 
 ## Instructions
-+ This script must be placed in the same folder as the excel sheet to be read
-+ Create a new file named "results.txt" in the same folder as this script
-+ The first row in the spreadsheet must be indexed, starting from 0, refer to the spreadsheet attached for reference
-+ Change the value of the variables in the python script before executing to the number of rows/columns in the required table
+1) This script must be placed in the same folder as the excel sheet to be read
+2) Create a new file named "results.txt" in the same folder as this script
+3) The first row in the spreadsheet must be indexed, starting from 0, refer to the spreadsheet attached for reference
+4) Change the value of the variables in the python script before executing to the number of rows/columns in the required table
 
 ## Limitations
 + Works only for square matrices
