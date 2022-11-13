@@ -5,6 +5,7 @@ But can be modified to satisfy various needs, the python file basically reads an
 ## Dependencies
 * Python 3.9
 * Pandas module
++ NumPy module
 
 ## Instructions
 1. This script must be placed in the same folder as the excel sheet to be read
